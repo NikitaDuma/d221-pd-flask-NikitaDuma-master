@@ -1,0 +1,38 @@
+p {
+  color: green;
+  font-size: 20px;
+}
+
+.active > a{
+  color: red;
+}
+  
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type=text], select {
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+  
+p {
+  color: green;
+  font-size: 20px;
+}
+
+.active > a{
+  color: red;
+}
